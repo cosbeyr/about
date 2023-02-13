@@ -90,7 +90,7 @@ strong {
 }
 
 heading {
-  font-family: Helvetica, Verdana, sans-serif;
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 22px;
 }
 
@@ -101,7 +101,7 @@ papertitle {
 }
 
 name {
-  font-family: Helvetica, Verdana, sans-serif;
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 32px;
   font-weight: 700
 }
