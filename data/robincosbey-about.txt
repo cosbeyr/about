@@ -1,0 +1,13 @@
+Robin Cosbey is a Research Data Scientist within the Artificial Integeligence 
+and Data Analytics Division at Pacific Northwest National Laboratory. Her research 
+interests comprise machine learning explainability and model evaluation including 
+the identification of biases and their greater impacts. She contributes her skills 
+in natural language processing, machine learning, and deep learning to several 
+projects. Robin values opportunities for education and growth. As such, she lends 
+her time to various teaching and mentorship engagements with colleagues as well as 
+students at the high school- and college-level.
+
+Robin received her Masters in Computer Science from Western Washington University in 2020. 
+Her background is in applied deep learning, specifically within the text and audio domains. 
+During her undergraduate studies, Robin received the Citizenship Award for her research, 
+tutoring, and mentorship within the Computer Science Department.
